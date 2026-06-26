@@ -19,33 +19,34 @@ The project also includes an interactive Streamlit dashboard for visualization, 
 - 🧪 Model evaluation reports  
 
 ---
-
 ## 🏗️ Project Structure
-├── app.py # Main Streamlit application
-├── model.py # CNN-GRU model architecture
-├── dataset.py # Dataset loading & preprocessing
-├── utils.py # Helper functions
-├── predict.py # Inference script
-├── train.py # Model training script
 
+```text
+WaveSense-AI/
+│
+├── app.py                  # Main Streamlit application
+├── model.py               # CNN-GRU model architecture
+├── dataset.py             # Dataset loading & preprocessing
+├── utils.py               # Helper functions
+├── predict.py             # Inference script
+├── train.py              # Model training script
+│
 ├── outputs/
-│ ├── wavesense_best.pth
-│ ├── confusion_matrix.png
-│ ├── loss_curve.png
-│ ├── accuracy_curve.png
-│ ├── training_report.txt
-│ └── label_mapping.txt
-
+│   ├── wavesense_best.pth
+│   ├── confusion_matrix.png
+│   ├── loss_curve.png
+│   ├── accuracy_curve.png
+│   ├── training_report.txt
+│   └── label_mapping.txt
+│
 ├── pages/
-│ ├── 1_Dashboard.py
-│ ├── 2_Visualization.py
-│ ├── 3_Model_Performance.py
-│ ├── 4_Dataset_Explorer.py
-│ └── 5_About_Model.py
-
-└── widar_env/ (excluded from GitHub)
-
----
+│   ├── 1_Dashboard.py
+│   ├── 2_Visualization.py
+│   ├── 3_Model_Performance.py
+│   ├── 4_Dataset_Explorer.py
+│   └── 5_About_Model.py
+│
+└── widar_env/   (not included in GitHub)
 
 ## ⚙️ Installation
 
