@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+widar_env/
+.env
+
+# Dataset
+BVP/
+*.dat
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs (keep only if you don't want generated files)
+# outputs/
+
+# OS
+.DS_Store
+Thumbs.db

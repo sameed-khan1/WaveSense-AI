@@ -1,0 +1,10 @@
+WaveSense AI Training Report
+============================
+
+Dataset Path : D:\LinkedIn Projects\New folder\BVP
+Training Samples : 34925
+Validation Samples : 8732
+Classes : 10
+Epochs Completed : 64
+Best Validation Accuracy : 79.08%
+Final Accuracy : 79.08%

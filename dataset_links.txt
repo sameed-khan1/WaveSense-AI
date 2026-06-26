@@ -1,0 +1,4 @@
+dataset link
+https://cloud.tsinghua.edu.cn/d/2760bb9557ca4d09a74d/?p=%2FCSI&mode=list
+https://ieee-dataport.org/open-access/widar-30-wifi-based-activity-recognition-dataset
+https://tns.thss.tsinghua.edu.cn/widar3.0/

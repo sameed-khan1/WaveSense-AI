@@ -1,0 +1,13 @@
+WaveSense AI Label Mapping
+==========================
+
+Original Label 1 -> Model Class 0
+Original Label 2 -> Model Class 1
+Original Label 3 -> Model Class 2
+Original Label 4 -> Model Class 3
+Original Label 5 -> Model Class 4
+Original Label 6 -> Model Class 5
+Original Label 7 -> Model Class 6
+Original Label 8 -> Model Class 7
+Original Label 9 -> Model Class 8
+Original Label 10 -> Model Class 9
