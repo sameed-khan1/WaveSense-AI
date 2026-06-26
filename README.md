@@ -20,7 +20,7 @@ The project also includes an interactive Streamlit dashboard for visualization, 
 
 ---
 
-###Project Structure
+## 🏗️ Project Structure
 ├── app.py # Main Streamlit application
 ├── model.py # CNN-GRU model architecture
 ├── dataset.py # Dataset loading & preprocessing
@@ -43,7 +43,7 @@ The project also includes an interactive Streamlit dashboard for visualization, 
 │ ├── 4_Dataset_Explorer.py
 │ └── 5_About_Model.py
 
-└── widar_env/ (not included in GitHub)
+└── widar_env/ (excluded from GitHub)
 
 ---
 
